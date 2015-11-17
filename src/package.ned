@@ -1,0 +1,3 @@
+package batchserver;
+
+@license(LGPL);
